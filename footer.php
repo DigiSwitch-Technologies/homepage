@@ -9,7 +9,7 @@
 			<!-- FOOTER LOGO -->
 			<div class="col-md-3">
 				<div class="footer-info">
-					<img class="footer-logo" src="images/logo-purple-white.png" alt="footer-logo">
+					<img class="footer-logo" src="images/ds-logo.png" alt="footer-logo">
 				</div>	
 			</div>	
 

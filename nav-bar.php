@@ -16,13 +16,13 @@
 
 				<!-- HEADER BLACK LOGO -->
 				<div class="desktoplogo">
-					<a href="index.php" class="logo-black"><img src="images/logo-purple.png" alt="logo"></a>
+					<a href="index.php" class="logo-black"><img src="images/ds-logo.png" alt="logo"></a>
 				</div>
 
 
 				<!-- HEADER WHITE LOGO -->
 				<div class="desktoplogo">
-					<a href="index.php" class="logo-white"><img src="images/logo-purple-white.png" alt="logo"></a>
+					<a href="index.php" class="logo-white"><img src="images/ds-logo.png" alt="logo"></a>
 				</div>
 
 
