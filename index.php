@@ -432,7 +432,7 @@
 			
 			
 			
-			<section id="projects" class="py-100 blog-section division">
+			<section id="projects" class="py-100 blog-section division" style="display: none;">
 				<div class="container">
 
 
